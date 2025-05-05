@@ -32,6 +32,7 @@ The pipeline includes full **EDA**, **feature importance**, **dimensionality red
 6. 🌟 Feature Engineering
    ├── Feature Importance (Random Forest)
    └── Label Encoding
+   └── Outlier Handling
 7. 🧠 Model Training
    ├── Train-Test Split
    ├── SVM Pipeline + Grid Search CV
